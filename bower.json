@@ -1,0 +1,24 @@
+{
+  "name": "angular",
+  "authors": [
+    "kowsalya <k.kowsalya210@gmail.com>"
+  ],
+  "description": "test package for bower",
+  "main": "directive.js",
+  "keywords": [
+    "test",
+    "package"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kurubakowsalya/angular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
